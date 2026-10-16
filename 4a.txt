@@ -1,3 +1,7 @@
 hello world
+ HEAD
 16th day of october
 git lab pt2
+16th day of October
+git lab 
+ 8cbfbca (committing 3rd line in fb1 branch)
